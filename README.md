@@ -1,4 +1,4 @@
 osp
 ===
 
-osp
+osp commit;
